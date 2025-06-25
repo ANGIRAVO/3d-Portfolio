@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank">
+    <a>
       <img src="public/images/readme.png" alt="Project Banner">
     </a>
   <br />
@@ -28,7 +28,7 @@
 
 The 3D Portfolio project is a highly engaging personal website that features animated 3D scenes, smooth camera transitions, interactive model showcases, and responsive design. It’s ideal for developers, designers, or freelancers looking to stand out in the digital crowd.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
